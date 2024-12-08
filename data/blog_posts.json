@@ -1,0 +1,123 @@
+{
+  "posts": [
+    {
+      "title": "Anthropic's Model Context Protocol: A Game-Changer for LLM Tools & Agents 🚀",
+      "content": {
+        "introduction": "Anthropic just released their open-source Model Context Protocol (MCP), revolutionizing how LLMs interact with external data and tools! Here's why it matters:",
+        "key_features": [
+          "Two-way connection between data sources and hosts",
+          "Open standard compatible with various LLM models",
+          "Supports both local and, in the future, cloud-based tools",
+          "Currently working with Mac & Windows Host (Claude desktop app)",
+          "Expect to see new hosts in the next few weeks",
+          "Python & TypeScript SDKs for custom development"
+        ],
+        "pre_built_mcp_servers": [
+          "File system operations",
+          "GitHub integration (read/write)",
+          "Brave search",
+          "Web scraping",
+          "Slack integration",
+          "Memory management"
+        ],
+        "conclusion": "The MCP could become the fundamental protocol for building AI agents!"
+      },
+      "hashtags": [
+        "#AI",
+        "#Claude",
+        "#Anthropic",
+        "#AIAgents"
+      ]
+    },
+    {
+      "title": "Just dropped: A deep dive with GenAI developer and Sam Witteveen on AWS's bold new claims",
+      "content": {
+        "introduction": "AWS just announced they can prevent 100% of hallucinations in certain mission-critical use cases through 'Automated Reasoning checks'.",
+        "key_points": [
+          "Mathematical verification techniques for LLM outputs",
+          "Proven automated reasoning technology",
+          "Integration with IAM policies and S3 storage systems"
+        ],
+        "significance": "Game-changing for industries with ground truth documentation requirements",
+        "conclusion": "While promising, this isn't a complete solution for LLM hallucinations"
+      },
+      "hashtags": [
+        "#ArtificialIntelligence",
+        "#AWS",
+        "#LLM",
+        "#EnterpriseAI"
+      ]
+    },
+    {
+      "title": "Anthropic Drops Major Updates: New Claude Models & Computer Use API!",
+      "content": {
+        "new_models": [
+          {
+            "name": "Upgraded Claude 3.5 Sonnet",
+            "details": [
+              "Available now on multiple platforms",
+              "Outperforms previous version",
+              "Better at agentic tasks & tool use"
+            ]
+          },
+          {
+            "name": "Claude 3.5 Haiku",
+            "details": [
+              "Coming Later This Month",
+              "Text-only initially",
+              "Faster & more cost-effective"
+            ]
+          }
+        ],
+        "conclusion": "A significant step forward in AI capabilities!"
+      },
+      "hashtags": [
+        "#AI",
+        "#Anthropic",
+        "#Claude",
+        "#Innovation"
+      ]
+    },
+    {
+      "title": "From data-hungry giants to lean reasoning machines",
+      "content": {
+        "event": "Recent #SingaporeML meetup insights on LLM reasoning",
+        "key_points": [
+          "Evolution of reasoning in Large Language Models",
+          "Importance of compute scaling at inference",
+          "Role of synthetic data in training",
+          "Future of smaller, efficient models"
+        ],
+        "conclusion": "Moving towards more efficient AI systems"
+      },
+      "hashtags": [
+        "#GenAI",
+        "#AI",
+        "#ML",
+        "#Singapore"
+      ]
+    },
+    {
+      "title": "Google's Gemini Team: New Experimental Models",
+      "content": {
+        "new_models": [
+          "Gemini 1.5 Pro",
+          "Gemini 1.5 Flash",
+          "Gemini 1.5 Flash 8B"
+        ],
+        "highlights": [
+          "Optimized for high throughput",
+          "Excellent multimodal capabilities",
+          "Improved reasoning and outputs"
+        ],
+        "conclusion": "Significant progress in model development"
+      },
+      "hashtags": [
+        "#AI",
+        "#LLMs",
+        "#Gemini",
+        "#GoogleAI"
+      ]
+    }
+  ]
+}
